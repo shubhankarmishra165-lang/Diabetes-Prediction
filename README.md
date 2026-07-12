@@ -55,10 +55,7 @@ The project uses the **Pima Indians Diabetes Dataset**.
 ## Correlation Heatmap
 
 > Replace the image below with your own heatmap.
-
-<p align="center">
-<img src="images/heatmap.png" width="650">
-</p>
+![Missing Value Analysis](image/Heatmap.png)
 
 ---
 
@@ -84,10 +81,10 @@ The project uses the **Pima Indians Diabetes Dataset**.
 
 Replace the values below with your actual results.
 
-| Machine Learning Model | Training Accuracy | Testing Accuracy |
-|-------------------------|------------------:|-----------------:|
-| Logistic Regression | **XX.XX%** | **XX.XX%** |
-| Random Forest | **XX.XX%** | **XX.XX%** |
+| Machine Learning Model | Accuracy | 
+|-------------------------|------------------:|
+| Logistic Regression | **81.82%** |
+| Random Forest | **81.17%** |
 
 ---
 
@@ -95,25 +92,17 @@ Replace the values below with your actual results.
 
 ## Logistic Regression
 
-<p align="center">
-<img src="images/lr_confusion_matrix.png" width="500">
-</p>
-
 ---
+![Missing Value Analysis](image/lr_confusion_matrix.png)
 
 ## Random Forest
 
-<p align="center">
-<img src="images/rf_confusion_matrix.png" width="500">
-</p>
 
 ---
-
+![Missing Value Analysis](image/rf_confusion_matrix.png)
 # 📊 Accuracy Comparison
 
-<p align="center">
-<img src="images/model_accuracy.png" width="650">
-</p>
+
 
 ---
 
