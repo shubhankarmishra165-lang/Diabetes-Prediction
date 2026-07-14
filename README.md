@@ -103,8 +103,8 @@ Replace the values below with your actual results.
 # 📊 Accuracy Comparison
 
 
-
 ---
+![Missing Value Analysis](image/model_accuracy_com.png)
 
 # 🔍 Sample Prediction
 
